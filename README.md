@@ -1,17 +1,29 @@
-## Hi, I’m Zakaria 👋
+## Hi, I’m Zakaria Abdirahman 👋
 
-Flutter Developer & System Builder  
-I build production-ready mobile apps for real businesses.
+Software Engineer & System Builder  
+I design and build complete digital systems for real businesses.
 
-### What I Do
-- Flutter apps (Android & iOS)
-- Offline-first systems
-- Admin dashboards & real-time data
-- WhatsApp & USSD integrations
+### What I Build
+- Mobile applications (Flutter – Android & iOS)
+- Web-based systems & admin dashboards
+- Backend systems (users, roles, workflows, data)
+- Payment & service integrations (USSD, WhatsApp, APIs)
+- Offline-first and low-connectivity solutions
 
-### Featured Project
-📱 **Suuqa24/7 – Marketplace & Marketing App**  
-A production-ready Flutter app with marketplace listings, admin panel,
-WhatsApp automation, and Somali/English support.
+### Selected Work
+📱 **Suuqa24/7 – Marketplace & Marketing System**  
+A production-ready system combining a mobile app, real-time admin control, and WhatsApp automation for Somali businesses.
 
-👉 See pinned repositories below for full projects.
+📡 **Iskaashi Telecom Platform**  
+A telecom services system with USSD-based payments, offline-first architecture, and Somali localization.
+
+💧 **EY 2026 – Clean Water Supply ML Project**  
+End-to-end machine learning pipeline with spatial validation and ensemble modeling for water quality prediction.
+
+### How I Work
+- Focus on system design and reliability
+- Build MVPs that are production-ready
+- Optimize for real users and real constraints
+- Deliver clean, maintainable solutions
+
+📌 See pinned repositories below for full project details.
