@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Zakiiryare13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I’m Zakaria 👋
 
-<!---
-Zakiiryare13/Zakiiryare13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Flutter Developer & System Builder  
+I build production-ready mobile apps for real businesses.
+
+### What I Do
+- Flutter apps (Android & iOS)
+- Offline-first systems
+- Admin dashboards & real-time data
+- WhatsApp & USSD integrations
+
+### Featured Project
+📱 **Suuqa24/7 – Marketplace & Marketing App**  
+A production-ready Flutter app with marketplace listings, admin panel,
+WhatsApp automation, and Somali/English support.
+
+👉 See pinned repositories below for full projects.
